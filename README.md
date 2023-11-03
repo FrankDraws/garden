@@ -5,4 +5,4 @@ The purpose of this project is to keep me coding and tinkering. I chose Jekyll b
 
 And now with the improvements in AI, I can ask questions and get direct answers and hopefully learn a bit quicker.
 
-> [!quote] Here goes nothing!
+Here goes nothing!
