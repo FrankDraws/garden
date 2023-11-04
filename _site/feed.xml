@@ -1,5 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-03T15:19:42-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Digital Garden 2.0</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Test Post</title><link href="http://localhost:4000/writing/2023/11/03/test.html" rel="alternate" type="text/html" title="Test Post" /><published>2023-11-03T14:51:06-04:00</published><updated>2023-11-03T14:51:06-04:00</updated><id>http://localhost:4000/writing/2023/11/03/test</id><content type="html" xml:base="http://localhost:4000/writing/2023/11/03/test.html"><![CDATA[<h1 id="test-post">Test Post</h1>
-<p>This is just a test post.</p>]]></content><author><name></name></author><category term="writing" /><summary type="html"><![CDATA[Test Post This is just a test post.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/11/03/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-11-03T14:51:06-04:00</published><updated>2023-11-03T14:51:06-04:00</updated><id>http://localhost:4000/jekyll/update/2023/11/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/11/03/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-03T22:44:15-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Frank’s Digital Garden 2.0</title><subtitle>Man of GOD, hubby, and dad. Also a creative professional with 30+ years experience in graphic design (print &amp; web), illustration, motion/animation, calligraphy, HTML, CSS, JS, and UX/UI. I love tinkering, woodworking, gardening, nature/outdoors, the ocean, reading, studying, writing.</subtitle><entry><title type="html">Reading</title><link href="http://localhost:4000/reading/2023/11/03/reading.html" rel="alternate" type="text/html" title="Reading" /><published>2023-11-03T14:51:06-04:00</published><updated>2023-11-03T14:51:06-04:00</updated><id>http://localhost:4000/reading/2023/11/03/reading</id><content type="html" xml:base="http://localhost:4000/reading/2023/11/03/reading.html"><![CDATA[<!-- <h1>Reading</h1> -->
+<p><em>Original post on Oct 12, 2021</em></p>
+<p>I love reading but I've bitten off more than I can chew.</p>
+
+<p>I'm jumping around, reading the following books:</p>
+<ul>
+    <li><s><a href="https://www.amazon.com/dp/1784984116?psc=1&amp;ref=ppx_yo2_dt_b_product_details" target="_blank">Can Science Explain Everything?</a>, by <a href="https://www.johnlennox.org" target="_blank">John C. Lennox</a></s>
+    </li>
+    <li><a href="https://www.amazon.com/Weight-Glory-C-S-Lewis/dp/0060653205/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1644094999&amp;sr=8-1" target="_blank">The Weight Of Glory</a>, by C. S. Lewis
+    </li>
+    <li><a href="https://www.amazon.com/Mathematics-Human-Flourishing-Francis/dp/0300258518/?_encoding=UTF8&amp;pd_rd_w=CNEGE&amp;pf_rd_p=29505bbf-38bd-47ef-8224-a5dd0cda2bae&amp;pf_rd_r=CRX4SBSEBRF8CR2DSGJ5&amp;pd_rd_r=9b996f3d-28fc-4aa6-9b53-471ff6398992&amp;pd_rd_wg=agSGK&amp;ref_=pd_gw_ci_mcx_mr_hp_atf_m" target="_blank">Mathematics For Human Flourishing, by Francis Su</a></li>
+    <li><a href="https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557/ref=sr_1_1?keywords=thinking+in+systems&amp;qid=1628814598&amp;s=books&amp;sr=1-1" target="_blank">Thinking In Systems: A Primer, By Donella H. Meadows</a></li>
+    <li><a href="https://www.amazon.com/Unhurried-Life-Following-Jesus-Rhythms/dp/0830835733/ref=sr_1_3?crid=2MFHY4A04D2R1&amp;dchild=1&amp;keywords=unhurried+life&amp;qid=1628867792&amp;sprefix=unhurried%2Caps%2C205&amp;sr=8-3" target="_blank">Unhurried Life: Following Jesus' Rhythms of Work and Rest, by Alan Fadling</a></li>
+    <li><a href="https://www.amazon.com/Divine-Time-Management-Trusting-Loving/dp/1478974362/ref=sr_1_2?keywords=divine+time+management&amp;qid=1628889416&amp;s=books&amp;sr=1-2" target="_blank">Divine Time Management, by Elizabeth Grace Saunders</a></li>
+    <li><a href="https://www.amazon.com/Mere-Christianity-C-S-Lewis/dp/0060652926/ref=sr_1_1?crid=30V2H4XRSQWHR&amp;keywords=mere+christianity+by+c.s.+lewis+paperback&amp;qid=1669951888&amp;sprefix=mere+%2Caps%2C119&amp;sr=8-1" target="_blank">Mere Christianity, by C. S. Lewis</a> (I'm just reading this one casually)</li>
+</ul>
+<p>I'll start the following when I'm done with the above:</p>
+<ul>
+    <li><a href="https://www.amazon.com/Creative-Habit-Learn-Use-Life/dp/0743235274/ref=sr_1_1?keywords=the+creative+habit&amp;qid=1628814544&amp;s=books&amp;sr=1-1" target="_blank">The Creative Habit, by Twyla Tharp</a></li>
+    <li><a href="https://nick.groenen.me/books/switch-how-to-change-things-when-change-is-hard/" target="_blank">Switch: How to Change Things When Change is Hard, by Chip and Dan Heath</a></li>
+</ul>
+
+<p>Wishlist:</p>
+<ul>
+    <!-- <li>
+        <a href="https://www.amazon.com/How-Take-Smart-Notes-Nonfiction/dp/1542866502/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=" target="_blank">
+            <del>How To Take Smart Notes</d>
+        </a>
+    </li> -->
+    <li><a href="https://www.amazon.com/dp/1400238099/?coliid=I13UOC6LQA5QTH&amp;colid=3OC8U688FQKGB&amp;psc=1&amp;ref_=lv_ov_lig_dp_it" target="_blank">Switchers</a></li>
+</ul>
+
+<p>I'm not a fast reader and I like to take notes, ponder, talk to myself, and write as I read.</p>
+
+<!-- <p>I've also recently began to post about what I've been reading, which is something new for me.</p> -->
+
+<p>As for onliine reading, I enjoy subjects such as tech, thinking, leadership, systems, mathematics, science, and business; as well as browse art and calligraphy from amazing creatives.</p>
+
+<p>Here are 3 articles about systems thinking being applied in the real world:</p>
+<ul>
+    <li><a href="https://www.tbsnews.net/feature/panorama/how-ngo-turning-somalian-pirates-fishermen-143104" target="_blank">How an NGO is turning Somalian pirates into fishermen</a></li>
+    <li><a href="https://www.cbc.ca/radio/sunday/the-sunday-edition-for-january-26-2020-1.5429251/housing-is-a-human-right-how-finland-is-eradicating-homelessness-1.5437402" target="_blank">Housing is a human right: How Finland is eradicating homelessness</a></li>
+    <li><a href="https://time.com/longform/portugal-drug-use-decriminalization/" target="_blank">Want to Win the War on Drugs? Portugal Might Have the Answer</a></li>
+</ul>
+
+<p>Here's an article in my queue:</p>
+<ul>
+    <li><a href="https://orionmagazine.org/article/the-gospel-of-consumption/" target="_blank">The Gospel of Consumption</a></li>
+</ul>]]></content><author><name></name></author><category term="reading" /><summary type="html"><![CDATA[Original post on Oct 12, 2021 I love reading but I've bitten off more than I can chew.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/11/03/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-11-03T14:51:06-04:00</published><updated>2023-11-03T14:51:06-04:00</updated><id>http://localhost:4000/jekyll/update/2023/11/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/11/03/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
