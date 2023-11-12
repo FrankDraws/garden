@@ -1,0 +1,16 @@
+{
+  "name": "garden-main",
+  "version": "1.0.0",
+  "description": "This was supposed to be a simple blog that used markdown files but it didn't work out. I used Jekyll 4.3.2 with the Minima theme 2.5.1.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "keywords": [],
+  "author": "Frank J. Quinones",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
