@@ -1,5 +1,7 @@
 ---
 title: About
+tags: page
+eleventyExcludeFromCollections: true
 date: Last Modified
 ---
 
@@ -17,4 +19,4 @@ That all ended in the summer of 2020.
 
 I'm currently working on another endeavor at the moment that has nothing to do with design, dev, nor UX. I'm not ready to share it yet, but let's just say, I've become very entrepreneurial.
 
-I love spending time with my family, especially out in nature. <a href="https://codepen.io/frankDraws/" target="_blank">I also love to tinker with code</a>, <a href="https://www.instagram.com/frankjuval/" target="_blank">create calligraphy and art</a>, <a href="https://www.behance.net/frankdraws" target="_blank">draw and design</a>, tinker with music, [read](/reading), <a href="/tagged/writing">write</a>, and manage my <a href="https://www.etsy.com/shop/FrankJuvalStudio" target="_blank">Etsy shop</a>.
+I love spending time with my family, especially out in nature. <a href="https://codepen.io/frankDraws/" target="_blank">I also love to tinker with code</a>, <a href="https://www.instagram.com/frankjuval/" target="_blank">create calligraphy and art</a>, <a href="https://www.frankjuval.com" target="_blank">draw and design</a>, tinker with music, [read](/reading), <a href="/tagged/writing">write</a>, and manage my <a href="https://www.etsy.com/shop/FrankJuvalStudio" target="_blank">Etsy shop</a>.

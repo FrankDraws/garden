@@ -6,6 +6,6 @@ templateEngineOverride: njk,md
 
 ## Blog Posts
 
-This is the list of blog posts.
+Welcome to my blog.
 
 {% include "postlist.njk" %}

@@ -1,12 +1,13 @@
 ---
 title: My First Post
-date: 2023-11-09
+tags: post
 ---
 
 # {{ page.date | postDate }}
 
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos similique, ipsa corporis provident nemo recusandae, molestiae ea impedit magni, quos quia aspernatur. Velit vero laboriosam praesentium voluptatibus fugiat. Dolorem, rerum.
+This is my first test blog post on Eleventy.
 
-
-Facts
----
+Things I should do:
+- Learn how 11ty works.
+- Learn how to template 11ty.
+- Drink coffee.

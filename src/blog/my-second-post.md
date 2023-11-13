@@ -1,6 +1,14 @@
 ---
 title: My Second Post
+tags: post
 ---
 
-# November 10, 2023
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloribus numquam ullam veritatis ex, modi iusto dolores eius praesentium eaque laboriosam. Suscipit quasi itaque maiores amet iste nihil quidem veritatis molestias!
+# {{ page.date | postDate }}
+
+This is my second test 11ty post.
+
+> This is a blockquote. Design a callout or find one for free.
+
+```html
+<div>Hello</div>
+```
