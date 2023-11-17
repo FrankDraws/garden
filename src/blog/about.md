@@ -12,6 +12,10 @@ I was crushed.
 
 I switched my major to graphic design, got my degree, and began to work as a designer and illustrator.
 
+<div class="callout">
+<p>I switched my major to graphic design, got my degree, and began to work as a designer and illustrator.</p>
+</div>
+
 Around that time the web was blowing up and I became obsessed with HTML and tech. So I taught myself how to code HTML, then eventually CSS, and JS, and switched to web design, then moved into front end dev, then UX.
 
 I spent 26 years illustrating, designing, coding, exploring creatively, animating, building web apps, finding solutions to difficult problems, and working on all sorts of amazing tech with amazing people.
