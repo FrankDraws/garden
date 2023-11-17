@@ -1,9 +1,7 @@
 ---
 title: About
 tags: page
-layout: "base.njk"
-eleventyExcludeFromCollections: true
-date: Last Modified
+layout: "page.njk"
 ---
 
 At age 8 I decided I wanted to be a Disney Animator (traditional hand drawn animation). From that age on I became obsessed and worked tirelessly to achieve that goal. I had my foot in the door at Disney in the late 90s, but Michael Eisner (Disney's CEO at the time) closed down the entire traditional animation department, because Pixar and computer animation were becoming popular.

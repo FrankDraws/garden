@@ -1,9 +1,7 @@
 ---
 title: Links
 tags: page
-layout: "base.njk"
-eleventyExcludeFromCollections: true
-date: Created
+layout: "page.njk"
 ---
 
 <h1>Examples Of My Work</h1>

@@ -10,4 +10,5 @@ I started as a traditional animation major, got my foot in the door at Disney bu
 
 <h1>Posts</h1>
 
+
 {% include "postlist.njk" %}
