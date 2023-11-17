@@ -1,9 +1,5 @@
 # Garden 2.0
 
-This was supposed to be a simple blog that used markdown files but it didn't work out. I used Jekyll 4.3.2 with the Minima theme 2.5.1. 
+This began as a blog using Jekyll but I was having too many issues I couldn't figure out, so I scrapped it and started over with 11ty. So far, so good. We'll see where this goes.
 
-I couldn't get images to display. I spent a considerable amount of time troubleshooting with AI but to no avail.
-
-So I decided to delete Jekyll, Minima, and all dependencies. 
-
-Not sure what I'll put in its place yet.
+I'm learning about how 11ty works, how to create a template from scratch, and more.
