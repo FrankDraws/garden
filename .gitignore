@@ -3,3 +3,8 @@ node_modules
 
 # build artefacts
 public
+
+# Don't include
+art-files/
+*.psd
+*.ai

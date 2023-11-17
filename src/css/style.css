@@ -1,18 +1,20 @@
-html,
-body {
-    width: 100%;
+html {
+    display: grid;
+    justify-items: center;
 }
 
 body {
     background-color: gainsboro;
     font-family: sans-serif;
     line-height: 1.3;
-    /* display: grid; */
-    /* justify-items: center; */
+    margin: 2em;
+    padding: 0;
 }
 
-main {
-    margin: 2em;
+
+
+.container {
+    width: 100%;
 }
 
 h1 {
@@ -21,6 +23,30 @@ h1 {
     line-height: 1;
     display: inline-block;
     /* outline: 1px solid orange; */
+}
+
+.post-h1 {
+    margin: 1em 0;
+}
+
+#hero {
+    background-image: url(../assets/Dimitri-Sirenko-painted-sea-turtle.jpeg);
+    background-size: cover;
+    background-position: top center;
+    width: 100%;
+    height: 300px;
+    margin: 0 0 1em 0;
+    padding: 0;
+}
+
+#hero-post {
+    background-image: url(../assets/garden-header-3360-shark.jpg);
+    background-size: cover;
+    background-position: top center;
+    width: 100%;
+    height: 300px;
+    margin: 0;
+    padding: 0;
 }
 
 header {
@@ -34,6 +60,10 @@ header {
 
 .postlist {
     list-style: none;
+}
+
+article {
+    margin: 1em 0;
 }
 
 nav {
@@ -74,11 +104,9 @@ blockquote {
 
 @media screen and (min-width: 800px) {
     body {
-        display: grid;
-        justify-items: center;
-    }
-
-    .container {
+        /* display: grid;
+        justify-items: center; */
         width: 55vw;
     }
+
 }
