@@ -1,13 +1,16 @@
 ---
 title: Links
 tags: page
-layout: "page.njk"
+eleventyExcludeFromCollections: true
+date: Created
 ---
 
-<h1>Examples Of My Work</h1>
+# {{ page.date | postDate }}
+
+## Examples of my work
 
 - [Alternate Website][def4]
-- [Portfolio Site][def]
+- [Frank Juval Studio][def]
 - [Instagram][def2]
 - [CodePen][def3]
 

@@ -1,7 +1,6 @@
 ---
 title: My First Post
 tags: post
-layout: "post.njk"
 ---
 
 # {{ page.date | postDate }}

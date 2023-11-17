@@ -8,10 +8,9 @@
         <link rel="stylesheet" href="/css/style.css"/>
     </head>
     <body>
-        <section id="container-base">
+        <section class="container">
             {% include "header.njk" %}
-            {% include "hero.njk" %}
-            <main id="main-base">
+            <main>
                 {{ content | safe }}
             </main>
         </section>
