@@ -1,6 +1,7 @@
 ---
 title: About
 tags: page
+layout: "base.njk"
 eleventyExcludeFromCollections: true
 date: Last Modified
 ---
