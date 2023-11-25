@@ -5,9 +5,9 @@ eleventyExcludeFromCollections: true
 date: Created
 ---
 
-# {{ page.date | postDate }}
+## {{ page.date | postDate }}
 
-## Examples of my work
+### Examples of my work
 
 - [Alternate Website][def4]
 - [Frank Juval Studio][def]
