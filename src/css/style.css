@@ -102,3 +102,26 @@ footer p {
     padding: 0.5em;
     color: #9a9a9a;
 }
+
+/* EXPERIMENTAL STYLES  */
+/* .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+} */
+
+
+
+.featured-post {
+    background-color: #e0e0e0;
+    padding: 20px;
+}
+
+.previous-posts article {
+    margin-bottom: 20px;
+}
+
+hr {
+    border: 1px solid #ccc;
+    margin: 20px 0;
+}
